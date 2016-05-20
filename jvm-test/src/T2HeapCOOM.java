@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author xuanjian
+ * args -Xms20M -Xmx20M -XX:+HeapDumpOnOutOfMemoryError
+ *
+ */
 public class T2HeapCOOM {
 	
 	static class OOMObject{

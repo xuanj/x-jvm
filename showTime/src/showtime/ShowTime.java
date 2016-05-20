@@ -5,6 +5,10 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.ui.IStartup;
 
+/**
+ * @author xuanjian
+ *
+ */
 public class ShowTime implements IStartup {
 
 	@Override
